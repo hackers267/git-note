@@ -1,6 +1,6 @@
 [book]
 authors = ["silence_zhpf"]
-language = "en"
+language = "zh_CN"
 multilingual = false
 src = "src"
 title = "Git使用笔记"
