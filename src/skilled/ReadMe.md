@@ -14,3 +14,11 @@ git config --global credential.helper store
 
 - depth 1 只克隆最近一次的提交
 - branch main 只克隆main分支内容
+
+## 设置 _git_ 初始化仓库时的默认分支
+
+如果想要在初始化仓库的时候修改默认分支 _master_ 为 _main_ ，可以使用下面的命令
+
+```shell
+git config --global init.defaultBranch main
+```
