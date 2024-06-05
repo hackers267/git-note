@@ -11,3 +11,24 @@ git log filename
 ```shell
 git log -p filename
 ```
+
+## 在查看时，同时显示文件名
+
+如何在使用`git log`时需要同时显示对应的文件名，我们只需要使用`--name-only`选项即可。如
+
+```shell
+git log --name-only
+```
+
+如何同时需要查看文件状态，那么可以使用`--name-status`选项。如
+
+```shell
+git log --name-status
+```
+
+同时我们也可以结合其它的选项来使用这两个命令，如下:
+
+```shell
+git log --name-only --oneline
+git log --name-status --oneline
+```
