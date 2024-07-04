@@ -7,6 +7,7 @@
 - [Log](./log/ReadMe.md)
 - [Checkout](./checkout/ReadMe.md)
 - [Add](./add/ReadMe.md)
+- [Commit](./commit/ReadMe.md)
 - [Diff](./diff/ReadMe.md)
 
 # 命令行
