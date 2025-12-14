@@ -14,3 +14,7 @@
 # 命令行
 
 - [worktree](./worktree.md)
+
+# 问题
+
+- [bad_object_head](./qa/bad_object_head.md)
